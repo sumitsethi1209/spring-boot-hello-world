@@ -1,5 +1,5 @@
 #FROM quay.io/eclipse/che-java8-maven:nightly
-FROM  eclipse/che-java11-maven
+FROM  quay.io/eclipse/che-java11-maven
 
 MAINTAINER tech-tejendra
 
